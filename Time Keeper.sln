@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time Keeper.Android", "Time Keeper\Time Keeper.Android\Time Keeper.Android.csproj", "{BC2F5467-A78E-44B1-BB48-5C6A16B8D632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time Keeper", "Time Keeper\Time Keeper\Time Keeper.csproj", "{059F3E5B-09E7-4BC1-8D19-ADF8E35821FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC2F5467-A78E-44B1-BB48-5C6A16B8D632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2F5467-A78E-44B1-BB48-5C6A16B8D632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2F5467-A78E-44B1-BB48-5C6A16B8D632}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BC2F5467-A78E-44B1-BB48-5C6A16B8D632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2F5467-A78E-44B1-BB48-5C6A16B8D632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2F5467-A78E-44B1-BB48-5C6A16B8D632}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{059F3E5B-09E7-4BC1-8D19-ADF8E35821FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059F3E5B-09E7-4BC1-8D19-ADF8E35821FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059F3E5B-09E7-4BC1-8D19-ADF8E35821FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059F3E5B-09E7-4BC1-8D19-ADF8E35821FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D049FB1-1945-4E7E-83C9-7B323576C68E}
+	EndGlobalSection
+EndGlobal
